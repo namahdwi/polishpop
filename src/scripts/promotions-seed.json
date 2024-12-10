@@ -1,0 +1,17 @@
+{
+  "promotions": {
+    "test-promotion": {
+      "isActive": true,
+      "startDate": {"_seconds": 1679000000, "_nanoseconds": 0},
+      "endDate": {"_seconds": 1679605000, "_nanoseconds": 0},
+      "remainingOffers": 100,
+      "title": "Free Nail Art Set",
+      "description": "First 100 customers get a free nail art set!",
+      "discountType": "fixed",
+      "discountValue": 0,
+      "totalOffers": 100,
+      "applicableProducts": [],
+      "terms": []
+    }
+  }
+} 

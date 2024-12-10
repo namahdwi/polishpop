@@ -1,0 +1,18 @@
+<!-- Save this as PNG -->
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#FB85AC" fill="none" stroke-width="2">
+    <!-- Hand outline -->
+    <path d="M100,250 C100,200 150,150 200,150 C250,150 300,200 300,250" />
+    <!-- Nail -->
+    <path d="M180,130 Q200,120 220,130 Q240,140 220,150 Q200,160 180,150 Q160,140 180,130" />
+    <!-- Measurement lines -->
+    <line x1="170" y1="120" x2="230" y2="120" stroke-dasharray="5,5"/>
+    <line x1="170" y1="160" x2="230" y2="160" stroke-dasharray="5,5"/>
+    <!-- Measurement arrows -->
+    <path d="M175,120 L165,120 M175,160 L165,160" />
+    <path d="M225,120 L235,120 M225,160 L235,160" />
+    <!-- Labels -->
+    <text x="150" y="140" fill="#FB85AC" font-size="12">Width</text>
+    <text x="240" y="140" fill="#FB85AC" font-size="12">13.5mm</text>
+  </g>
+</svg> 

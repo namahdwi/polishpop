@@ -1,0 +1,15 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Add a subtle shadow/outline effect -->
+  <defs>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="1" flood-color="#FFF" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  
+  <g stroke="#FF4D8C" stroke-width="2.5" fill="none" filter="url(#shadow)">
+    
+    <!-- Star nail -->
+    <path d="M80 70 L83 77 L90 78 L85 83 L86 90 L80 87 L74 90 L75 83 L70 78 L77 77 Z"/>
+
+  </g>
+</svg> 
